@@ -51,3 +51,7 @@ ls counts*
 ```
 more counts*
 ```
+
+[Word Count Running](runningbeam.png) 
+[First Name](firstname.png) 
+[Last_Name](lastname.png) 
