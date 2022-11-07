@@ -52,6 +52,11 @@ ls counts*
 more counts*
 ```
 
+## Beam Running
 ![Word Count Running](beamrunning.png) 
+
+## First Name
 ![First Name](firstname.png) 
+
+## Last Name
 ![Last_Name](lastname.png) 
